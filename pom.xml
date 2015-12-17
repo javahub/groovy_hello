@@ -24,5 +24,15 @@
             <artifactId>h2</artifactId>
             <version>1.4.187</version>
         </dependency>
+        <dependency>
+            <groupId>org.spockframework</groupId>
+            <artifactId>spock-core</artifactId>
+            <version>1.0-groovy-2.4</version>
+        </dependency>
+        <dependency>
+            <groupId>de.flapdoodle.embed</groupId>
+            <artifactId>de.flapdoodle.embed.mongo</artifactId>
+            <version>1.50.0</version>
+        </dependency>
     </dependencies>
 </project>
