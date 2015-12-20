@@ -3,27 +3,22 @@ groovy 动态类型 函数语言 并发
 ####why
 不同于jvm上的其他语言,更简洁的java，对java更多的思考，宁一个角度实现java没有功能与常见场景.
 
-####demo入门与实战
+####计划demo内容包含
 
-1. 常用语法
+1. 常用语法与使用javabean
 
-2. 使用javabean
+2. 动态类型与闭包
 
-3. 动态类型
+3. 项目使用应用groovy打杂,spock测试
 
-4. 闭包
+4. groovy 加入java项目编译 插件
 
-5. 应用groovy 打杂
+5. 元编程
 
-6. 应用groovy 测试spock
+6. gradle应用与设计分析
 
-7. 元编程
+7. grails使用
 
-8. gradle应用与设计分析
+8. GPars并发编程
 
-9. grails整合总和使用与常用java框架对比
-
-10. groovy 加入java项目
-编译 插件
-
-11. groovy写函数编程与并发
+9. Ratpack 高性能web编程
